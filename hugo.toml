@@ -54,9 +54,9 @@ pygmentsCodefencesGuessSyntax = true
 [Params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Junge Gemeinde Luftenberg"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
-  facebook = "username"
+  website = "https://junge-gemeinde.luftenberg.at"
+  # email = ""
+  # facebook = "username"
 
 [[menu.main]]
     identifier = "samples"
@@ -66,17 +66,5 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "samples"
     name = "Für Mitwirkende der jungen Gemeinde"
-    url = "https://drive.google.com/drive/folders/1nKnB7k9kosTDV9oc4UaueHprppMgW9HW"
+    url = "https://drive.google.com/drive/folders/14oCgQbOxEFjFHc7WK22A2J6Zs_SicnkB"
     weight = 1
-
-[[menu.main]]
-    parent = "samples"
-    name = "Für Vereine"
-    url = "https://docs.google.com/spreadsheets/d/14b6WZsmMQMlD_dmv2eVY5lsUUpD6MRvI0guTIpukvY8/edit?gid=0#gid=0"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Für Veranstalter"
-    url = "https://docs.google.com/spreadsheets/d/14b6WZsmMQMlD_dmv2eVY5lsUUpD6MRvI0guTIpukvY8/edit?gid=0#gid=0"
-    weight = 2

@@ -6,8 +6,6 @@
     <description>Recent content in Categories on Junge Gemeinde</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>youremail@domain.com (Junge Gemeinde Luftenberg)</managingEditor>
-    <webMaster>youremail@domain.com (Junge Gemeinde Luftenberg)</webMaster>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
