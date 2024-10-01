@@ -66,5 +66,17 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "samples"
     name = "Für Mitwirkende der jungen Gemeinde"
-    url = "https://drive.google.com/drive/folders/14oCgQbOxEFjFHc7WK22A2J6Zs_SicnkB"
+    url = "https://drive.google.com/drive/folders/13qN5tRu0YLay28knqOSYOtL00XAiGpQn?usp=sharing"
     weight = 1
+
+[[menu.main]]
+    parent = "samples"
+    name = "Für Vereine"
+    url = "https://drive.google.com/drive/folders/1A24rbch0EH7-TpLa3sMemC-BWhxgVsfP?usp=sharing"
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "Für Veranstalter"
+    url = "https://drive.google.com/drive/folders/1QMSU2T1RUFCoDS7sW-L9OF7MMnDyT_y4?usp=drive_link"
+    weight = 3
