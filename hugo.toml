@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "https://junge-gemeinde.wogri.at"
 DefaultContentLanguage = "de"
 title = "Junge Gemeinde"
 # Using theme as git submodule 
