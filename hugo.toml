@@ -71,12 +71,6 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     parent = "samples"
-    name = "Für Vereine"
-    url = "https://drive.google.com/drive/folders/1A24rbch0EH7-TpLa3sMemC-BWhxgVsfP?usp=sharing"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
     name = "Für Veranstalter"
     url = "https://drive.google.com/drive/folders/1QMSU2T1RUFCoDS7sW-L9OF7MMnDyT_y4?usp=drive_link"
     weight = 3
