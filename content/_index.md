@@ -1,3 +1,5 @@
+![logo](/images/logo.jpg)
+
 ## Digitales Luftenberg - Sicher und handybewusst - das ist unsere Vision.
 
 Wir möchten Kinder und Jugendliche im Alter von 8 - 14 Jahren über die Gefahren, aber auch Chancen digitaler Medien aufklären und ihnen Kompetenzen für einen verantwortungsvollen Umgang vermitteln. Dazu bedarf es der Unterstützung aller LuftenbergerInnen.
@@ -5,6 +7,8 @@ Wir möchten Kinder und Jugendliche im Alter von 8 - 14 Jahren über die Gefahre
 **Warum? Wir Erwachsenen leben die Handynutzung vor.**
 
 ## Wer sind wir? 
+
+![logo](/images/team.jpg)
 
 Das Team der Jungen Gemeinde
 Wir sind eine motivierte Gruppe von Luftenberger:innen und möchten vor allem unsere jungen Gemeindebürger:innen für digitale Medien besser sensibilisieren. In der Vergangenheit mussten wir feststellen, dass nicht nur substanzgebundene Suchtmittel für unsere Kinder und Jugendlichen eine große Gefahr darstellen, sondern vor allem die Cyberkriminalität sowie der Medien-Konsum an sich (Spiele und Handy Nutzung)  massiv ansteigt. Dagegen wollen wir etwas unternehmen. Unser Projekt “handybewusste Gemeinde” sieht ein gem. mit Bildungsverantwortlichen und Medien-ExpertInnen konzipiertes Themen-Programm vor, das ganzjährig in Luftenberg Anwendung finden wird. 
